@@ -28,5 +28,5 @@
     "src/App.tsx"
     // Add other files as needed
   ],
-  "include": ["src"]
+  "include": ["src", "src/**/*.tsx", "src/**/*.ts"]
 }

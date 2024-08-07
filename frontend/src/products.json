@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "src": "/src/assets/product1.png",
+    "title": "Celular",
+    "price": "800,00",
+    "profilePic": "/src/assets/profile-pic1.png",
+    "profileName": "João Ribeiro",
+    "rating": 3.5,
+    "description": "• Tela Super Retina XDR de 6,1”;\n• Chip biônico A15 p/ desempenho + rápido;\nSistema avançado de câmera dupla;\nCâmera frontal TrueDepth de 12 MP, com modo noturno e gravação 4K Dolby Vision."
+  },
+  {
+    "id": 2,
+    "src": "/src/assets/product2.png",
+    "title": "Capa protetora",
+    "price": "20,00",
+    "profilePic": "/src/assets/profile-pic1.png",
+    "profileName": "João Ribeiro",
+    "rating": 3.5,
+    "description": "• Tela Super Retina XDR de 6,1”;\n• Chip biônico A15 p/ desempenho + rápido;\nSistema avançado de câmera dupla;\nCâmera frontal TrueDepth de 12 MP, com modo noturno e gravação 4K Dolby Vision."
+  },
+  {
+    "id": 3,
+    "src": "/src/assets/product3.png",
+    "title": "Smart TV",
+    "price": "1400,00",
+    "profilePic": "/src/assets/profile-pic1.png",
+    "profileName": "João Ribeiro",
+    "rating": 3.5,
+    "description": "• Tela Super Retina XDR de 6,1”;\n• Chip biônico A15 p/ desempenho + rápido;\nSistema avançado de câmera dupla;\nCâmera frontal TrueDepth de 12 MP, com modo noturno e gravação 4K Dolby Vision."
+  },
+  {
+    "id": 4,
+    "src": "/src/assets/product4.png",
+    "title": "Monitor",
+    "price": "750,00",
+    "profilePic": "/src/assets/profile-pic1.png",
+    "profileName": "João Ribeiro",
+    "rating": 3.5,
+    "description": "• Tela Super Retina XDR de 6,1”;\n• Chip biônico A15 p/ desempenho + rápido;\nSistema avançado de câmera dupla;\nCâmera frontal TrueDepth de 12 MP, com modo noturno e gravação 4K Dolby Vision."
+  },
+  {
+    "id": 5,
+    "src": "/src/assets/product5.png",
+    "title": "Smartphone",
+    "price": "3.200,00",
+    "profilePic": "/src/assets/profile-pic1.png",
+    "profileName": "João Ribeiro",
+    "rating": 3.5,
+    "description": "• Tela Super Retina XDR de 6,1”;\n• Chip biônico A15 p/ desempenho + rápido;\nSistema avançado de câmera dupla;\nCâmera frontal TrueDepth de 12 MP, com modo noturno e gravação 4K Dolby Vision."
+  },
+  {
+    "id": 6,
+    "src": "/src/assets/product6.png",
+    "title": "Smartwatch",
+    "price": "900,00",
+    "profilePic": "/src/assets/profile-pic1.png",
+    "profileName": "João Ribeiro",
+    "rating": 3.5,
+    "description": "• Tela Super Retina XDR de 6,1”;\n• Chip biônico A15 p/ desempenho + rápido;\nSistema avançado de câmera dupla;\nCâmera frontal TrueDepth de 12 MP, com modo noturno e gravação 4K Dolby Vision."
+  }
+]

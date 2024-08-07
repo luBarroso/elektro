@@ -23,5 +23,10 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
+  "files": [
+    "src/main.tsx",
+    "src/App.tsx"
+    // Add other files as needed
+  ],
   "include": ["src"]
 }
